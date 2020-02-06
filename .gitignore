@@ -1,0 +1,9 @@
+.idea/
+node_modules/
+.tools/template/**/*.cache
+**/SymDepend.cache
+local/
+local-*
+!.log
+.pnp.js
+.yarn
